@@ -3,7 +3,7 @@
     Type: Standards Track
     Created: 08-Mar-2026
     Erlang-Version: OTP-29.0
-    Post-History:
+    Post-History: https://erlangforums.com/t/eep-singleton-binary-literal-types
 ****
 EEP XX: Singleton Binary Literal Types
 ----
@@ -279,7 +279,10 @@ on type forms.
 Reference Implementation
 ========================
 
-TODO
+A [reference implementation][Implementation PR] is available.
+
+[Implementation PR]: https://github.com/erlang/otp/pull/10816
+    "Implementation Pull Request"
 
 [EEP 8]: eep-0008.md
     "EEP 8: Types and function specifications"
